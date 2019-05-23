@@ -6,7 +6,7 @@ def test_m1():
 
 
 def test_m2():
-    pass
+    print("changed")
 
 
 def test_m3():
