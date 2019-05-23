@@ -2,7 +2,7 @@ import pytest
 
 
 def test_m1():
-    pass
+    print("changes done")
 
 
 def test_m2():
